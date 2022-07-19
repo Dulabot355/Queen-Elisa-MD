@@ -32,13 +32,13 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = ['12366012568'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
+global.pengguna = 'D𝚞 𝚕𝚊' // Your name ඔබේ නම 
+global.botnma = '💃𝗤𝘂𝗲𝗲𝗻 𝘀𝗮𝗱𝘂 𝗯𝗼𝘁 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝔇𝔘𝔏𝔄𝔎𝔖ℌ𝔄 𝔓ℜℑ𝔜𝔄𝔖ℌ𝔄𝔑' //ownernama,ownername
+global.packname = '𝚀𝚞𝚎𝚎𝚗 𝚂𝚊𝚍𝚞 𝚂𝚝𝚒𝚌𝚔𝚎𝚛' // Sticker package name 
 global.author = 'Dark Maker' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
@@ -50,7 +50,7 @@ global.alive =`Hello i am alive now
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome = `හායි සුදූ.සාදරයෙන් කෑදරයෙන් පිලිගන්නවා ❤️ 
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
@@ -60,7 +60,7 @@ global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`//𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚃𝙷𝙴 𝚀𝚄𝙴𝙴𝙽 𝚂𝙰𝙳𝚄 𝚆𝙷𝙰𝚃𝚂𝙰𝙿 𝙱𝙾𝚃
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
